@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/12 18:11:28.000.118,=D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/15 14:24:39.512,=D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/15 14:25:19.069,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\principal.dfm=D:\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/08/15 14:25:19.069,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\principal.pas=D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/15 14:25:31.707,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\DC_DC_UPTC.dproj=D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/15 14:25:43.250,=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 14:26:30.129,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Reductor111.pas=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 14:26:30.129,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Reductor111.dfm=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.dfm</Transaction>
+    <Transaction>2022/08/15 14:28:54.164,=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.pas</Transaction>
+    <Transaction>2022/08/15 14:29:10.000,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\diseñoo.dfm=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.dfm</Transaction>
+    <Transaction>2022/08/15 14:29:10.000,D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\diseñoo.pas=D:\Documentos\Embarcadero\Studio\Projects\dcdcMario\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
